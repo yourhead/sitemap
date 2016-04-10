@@ -4,8 +4,7 @@
 Sitemap is a plugin to automatically generate site-map indexes to improve your Google search results.
 
 ## Download
- - [Stable Release v2.90.13](https://github.com/yourhead/sitemap/raw/v2.90.13/downloads/sitemap.2.90.13.zip)
- - [Beta v3.0.0 beta 1](https://github.com/yourhead/sitemap/raw/v3.0.0b1/downloads/SiteMap_3.0.0b1_1115.zip)
+ - [SiteMap v3.0.0](https://github.com/yourhead/sitemap/raw/v3.0.0/downloads/SiteMap_3.0.0_1117.zip)
 
 <img src='https://raw.githubusercontent.com/yourhead/sitemap/master/assets/icon_256.png' width=256 >
 
