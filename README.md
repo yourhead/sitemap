@@ -3,11 +3,10 @@
 #### originally by LogHound
 Sitemap is a plugin to automatically generate site-map indexes to improve your Google search results.
 
-![SiteMap Icon](https://raw.githubusercontent.com/yourhead/sitemap/master/assets/icon_256.png)
-
-
 ## Download
  Soon
+
+<img src='https://raw.githubusercontent.com/yourhead/sitemap/master/assets/icon_256.png' width=256 >
 
 
 ## From the LogHound site
